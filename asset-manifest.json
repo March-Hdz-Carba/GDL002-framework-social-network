@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gdl002-framework-social-network/static/css/main.34de6062.chunk.css",
+    "main.js": "/gdl002-framework-social-network/static/js/main.0a9074a0.chunk.js",
+    "main.js.map": "/gdl002-framework-social-network/static/js/main.0a9074a0.chunk.js.map",
+    "runtime~main.js": "/gdl002-framework-social-network/static/js/runtime~main.44a54b25.js",
+    "runtime~main.js.map": "/gdl002-framework-social-network/static/js/runtime~main.44a54b25.js.map",
+    "static/js/2.2bcd7024.chunk.js": "/gdl002-framework-social-network/static/js/2.2bcd7024.chunk.js",
+    "static/js/2.2bcd7024.chunk.js.map": "/gdl002-framework-social-network/static/js/2.2bcd7024.chunk.js.map",
+    "index.html": "/gdl002-framework-social-network/index.html",
+    "precache-manifest.bbee89c15328263cfabce89d8889f0f5.js": "/gdl002-framework-social-network/precache-manifest.bbee89c15328263cfabce89d8889f0f5.js",
+    "service-worker.js": "/gdl002-framework-social-network/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/gdl002-framework-social-network/static/css/main.34de6062.chunk.css.map"
+  }
+}
